@@ -1,0 +1,4 @@
+---
+collections:
+  - name: community.libvirt
+    src: https://aap-ah.ekeberg.io/api/galaxy/content/community/
