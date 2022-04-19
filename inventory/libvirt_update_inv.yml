@@ -9,3 +9,4 @@
       virt:
         command: "list_vms"
       register: existing_vms
+      changed_when: no
