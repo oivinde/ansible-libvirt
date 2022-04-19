@@ -1,10 +1,11 @@
-[ansible_lab]
+[hosts]
+hackpro.ekeberg.io
+
+[homelab]
 aap-c.ekeberg.io
 aap-ah.ekeberg.io
 aap-en1.ekeberg.io
-
-[homelab]
 gitlab.ekeberg.io
 
-[private]
+[production]
 mc.ekeberg.io
