@@ -1,0 +1,11 @@
+---
+- name: Update libvirt inventory
+  hosts: kvm
+  become: true
+
+  tasks:
+  
+    - name: get list of VMs
+      virt:
+        command: "list_vms"
+#     register: vms
