@@ -8,4 +8,4 @@
     - name: get list of VMs
       virt:
         command: "list_vms"
-      register: vms
+      register: existing_vms
