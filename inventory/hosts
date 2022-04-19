@@ -1,2 +1,10 @@
-[inventory]
+[ansible_lab]
+aap-c.ekeberg.io
+aap-ah.ekeberg.io
+aap-en1.ekeberg.io
 
+[homelab]
+gitlab.ekeberg.io
+
+[private]
+mc.ekeberg.io
